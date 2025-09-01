@@ -1,0 +1,7 @@
+_quarantine_non_einstein/
+*_report*.csv
+_bad_pdfs.csv
+integrity_report*.csv
+einstein_run/
+einstein_rescued/
+targets_ads.csv
